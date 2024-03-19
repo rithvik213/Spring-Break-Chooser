@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Spring Break Chooser</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="chinese">Chinese</string>
+    <string name="russian">Russian</string>
+    <string name="german">German</string>
+    <string name="telugu">Telugu</string>
+    <string name="your_spoken_text_will_show_here">Your spoken text will show here</string>
 </resources>
